@@ -1,2 +1,2 @@
 # CS2053JavaLAB
-java 3rs sem lab programs
+java 3rd sem lab programs
